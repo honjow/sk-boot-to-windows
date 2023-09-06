@@ -1,0 +1,7 @@
+*
+!PKGBUILD
+!*.install
+!.gitignore
+!*.sh
+!*.svg
+!*.desktop
